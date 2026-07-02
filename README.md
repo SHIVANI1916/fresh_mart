@@ -1,8 +1,8 @@
 # FreshMart — Premium Grocery E-Commerce 🛒
 
-[![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-success.svg)](https://github.com/Mdsayeed098/freshmart)
+[![Project Status: Active](https://img.shields.io/badge/Project%20Status-Active-success.svg)](https://github.com/SHIVANI1916/freshmart)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/Mdsayeed098/freshmart)
+[![Build Status](https://img.shields.io/badge/Build-Passing-brightgreen.svg)](https://github.com/SHIVANI1916/freshmart)
 
 FreshMart is a high-performance, full-stack grocery application built with the **MERN stack**. It features a modern "Glassmorphism" aesthetic, real-time stock management, and a robust admin dashboard.
 
